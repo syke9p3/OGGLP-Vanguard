@@ -1,13 +1,17 @@
 # OGGLP-Vanguard
-Database project of Information Management
+Database system project for Information Management
 
 Languages: PHP, CSS, MySQL
 Libraries: Bootstrap, JQuery, AJAX
 
-Requirements: VSC, Browser, PHP extension
+Requirements: VSC, Browser, XAMPP, PHPMyAdmin
 
-To open in VSC:
+1. Open XAMPP then start Apache and MySQL
 
-Open index_course.php
-Right click then Serve Project
-Run in brow
+2. Open PHPMyAdmin
+
+3. Open Visual Studio Code
+Open index_course.php.
+Right click code then Serve Project. Run in browse
+
+Link should be: http://localhost:3000/Database%20Vanguard/index_course.php
